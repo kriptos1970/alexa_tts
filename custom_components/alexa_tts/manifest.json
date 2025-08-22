@@ -1,0 +1,11 @@
+{
+  "domain": "alexa_tts",
+  "name": "Alexa TTS",
+  "version": "0.0.3",
+  "documentation": "https://github.com/kriptos1970/alexa_tts",
+  "dependencies": [],
+  "codeowners": ["@kriptos1970"],
+  "requirements": [],
+  "iot_class": "cloud_push",
+  "config_flow": true
+}
